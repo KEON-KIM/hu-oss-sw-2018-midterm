@@ -8,4 +8,4 @@ Midterm
 
  * [] Add introductory text file about myself
  * [] Write some wiki page about this repository
- * [] Open, refer clos issues, milestones and projects
+ * [] Open, refer clos issues, milestones and projects 
